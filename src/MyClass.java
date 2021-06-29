@@ -12,4 +12,8 @@ public class MyClass {
     public void hello(){
         System.out.println("Hello, world");
     }
+
+    public double div(double a,double b){
+        return a/b;
+    }
 }

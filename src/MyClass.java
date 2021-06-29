@@ -8,4 +8,8 @@ public class MyClass {
     public int multiply(int a,int b){
         return a*b;
     }
+
+    public void hello(){
+        System.out.println("Hello, world");
+    }
 }

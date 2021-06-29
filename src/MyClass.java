@@ -13,7 +13,7 @@ public class MyClass {
         System.out.println("Hello, world");
     }
 
-    public double div(double a,double b){
+    /*public double div(double a,double b){
         return a/b;
-    }
+    }*/
 }

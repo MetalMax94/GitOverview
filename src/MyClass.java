@@ -16,4 +16,9 @@ public class MyClass {
     /*public double div(double a,double b){
         return a/b;
     }*/
+
+    public double rashod()
+    {
+        return 2;
+    }
 }
